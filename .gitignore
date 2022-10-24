@@ -1,0 +1,4 @@
+node_modules/
+salida/*.txt
+
+para no darle seguimiento a los archivos txt , ni los modulos;
